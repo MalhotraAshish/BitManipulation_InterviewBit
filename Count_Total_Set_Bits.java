@@ -18,7 +18,7 @@ public class Count_Total_Set_Bits {
 		}
 		
 		System.out.println(Arrays.toString(arr));
-		System.out.println("hello");
+		System.out.println("hello 1");
 		return 0;
 	}
 
